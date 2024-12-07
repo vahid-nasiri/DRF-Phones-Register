@@ -8,6 +8,9 @@ The app allows you to store and manage information about various phones, includi
 - **PostgreSQL Database**: A PostgreSQL database to store phone details.
 - **Django Admin**: Manage the phones via the Django admin interface.
 
+## Improvement needed
+- Adding quantity field.
+- Adding created_at field.
 
 # Installation
 
