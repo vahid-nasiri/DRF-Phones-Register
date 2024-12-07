@@ -9,8 +9,9 @@ The app allows you to store and manage information about various phones, includi
 - **Django Admin**: Manage the phones via the Django admin interface.
 
 ## Improvement needed
-- Adding quantity field.
-- Adding created_at field.
+- Adding quantity of phones.
+- Creating the date filed when phones are registered.
+- Uploading image for phones.
 
 ## Installation
 
