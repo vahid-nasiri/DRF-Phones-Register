@@ -1,5 +1,5 @@
 # Phone Register App
-A phone register application built with **Django, Django REST Framework (DRF), PostgreSQL**, and managed with **Poetry**.
+A phone register application built with **Django, Django REST Framework (DRF), PostgreSQL, Djoser, Authentication**, and managed with **Poetry**.
 The app allows you to store and manage information about various phones, including details like brand, model, price, screen size, and more. Also have filtering logic for filter cell phones by brand, made-in and nationality.
 
 ## Features
@@ -12,7 +12,7 @@ The app allows you to store and manage information about various phones, includi
 - Adding quantity field.
 - Adding created_at field.
 
-# Installation
+## Installation
 
 ### - Clone the Repository
 ```bash
